@@ -1,0 +1,28 @@
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\App.g.cs
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\view\MainPage.g.cs
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\vmmv.g.resources
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\Bin\Debug\vmmv.dll
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\Bin\Debug\vmmv.pdb
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\Bin\Debug\AppManifest.xaml
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\Bin\Debug\vmmv.xap
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\Bin\Debug\vmmvTestPage.html
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\vmmv.dll
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\vmmv.pdb
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\XapCacheFile.xml
+D:\programming train\pluralsight\design pattern\vmmv\vmmv\obj\Debug\vmmv.csprojResolveAssemblyReference.cache
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\vmmv.dll
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\vmmv.pdb
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\AppManifest.xaml
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\vmmv.xap
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\vmmvTestPage.html
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\App.g.cs
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\view\MainPage.g.cs
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\vmmv.g.resources
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\vmmv.dll
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\vmmv.pdb
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\XapCacheFile.xml
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\System.Windows.Interactivity.dll
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\z_training\design patterns\vmmv\vmmv\Bin\Debug\System.Windows.Interactivity.xml
+D:\z_training\design patterns\vmmv\vmmv\obj\Debug\vmmv.csprojResolveAssemblyReference.cache
