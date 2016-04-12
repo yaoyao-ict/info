@@ -12,7 +12,7 @@ using System.Windows.Shapes;
 using System.Windows.Data;
 
 
-namespace vmmv
+namespace vmmvvvv
 {
     public partial class MainPage : UserControl
     {
